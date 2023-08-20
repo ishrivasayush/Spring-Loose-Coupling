@@ -1,2 +1,5 @@
-package org.example;public interface Cheat {
+package org.example;
+
+public interface Cheat {
+    public void cheat();
 }
